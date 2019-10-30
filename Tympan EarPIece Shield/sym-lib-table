@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Tympan_EarPiece_Shield)(type Legacy)(uri ${KIPRJMOD}/Library/Tympan_EarPiece_Shield.lib)(options "")(descr ""))
+  (lib (name Tympan_EarPiece_Shield-rescue)(type Legacy)(uri ${KIPRJMOD}/Tympan_EarPiece_Shield-rescue.lib)(options "")(descr ""))
+)
