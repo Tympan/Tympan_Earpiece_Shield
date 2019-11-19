@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Tympan_EarPiece_Shield-cache
 EELAYER 30 0
 EELAYER END
 $Descr A 11000 8500
@@ -1298,4 +1299,28 @@ Text Notes 1500 5150 0    60   ~ 0
 LEFT
 Text Notes 2800 5150 0    60   ~ 0
 RIGHT
+$Comp
+L Connector_Generic:Conn_01x01 J5
+U 1 1 5DD9A1D8
+P 3950 6950
+F 0 "J5" H 4030 6992 50  0000 L CNN
+F 1 "Conn_01x01" H 4030 6901 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 3950 6950 50  0001 C CNN
+F 3 "~" H 3950 6950 50  0001 C CNN
+	1    3950 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J6
+U 1 1 5DD9A7ED
+P 3950 7200
+F 0 "J6" H 4030 7242 50  0000 L CNN
+F 1 "Conn_01x01" H 4030 7151 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 3950 7200 50  0001 C CNN
+F 3 "~" H 3950 7200 50  0001 C CNN
+	1    3950 7200
+	1    0    0    -1  
+$EndComp
+Text Notes 3550 7500 0    60   ~ 0
+NPTH Mounting Holes
 $EndSCHEMATC
